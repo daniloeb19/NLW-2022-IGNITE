@@ -139,7 +139,7 @@ export function CreateAdModal() {
                         </CheckBox.Root>
                         Costumo me conectar ao chat de voz
                     </label>
-                    <footer className='mt-4 flex justify-end gap-4'>
+                    <footer className='mt-4 flex justify-center gap-4'>
                         <Dialog.Close
                             className='bg-zinc-500 px-5 h-12 rounded-md font-semibold hover:bg-zinc-600'>Cancelar</Dialog.Close>
                         <button
